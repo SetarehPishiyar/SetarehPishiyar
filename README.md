@@ -21,7 +21,7 @@ As a **Frontend Developer Intern**, I worked with **React.js** and **Next.js** o
 ## ✦ Frontend Core & Build Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,vite,webpack,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,figma" />
 </p>
 
 ---
@@ -32,7 +32,7 @@ As a **Frontend Developer Intern**, I worked with **React.js** and **Next.js** o
 <img src="https://skillicons.dev/icons?i=postman,redux" />
 </p>
 
-**TanStack Query** • **Zustand** • **React Hook Form** • **REST APIs** • **Recharts**
+**TanStack Query** • **Zustand** • **React Hook Form** • **REST APIs** 
 
 ---
 
