@@ -77,30 +77,20 @@ Worked on practical frontend features using **React.js** and **Next.js**, includ
 ✦ Type-Safe Applications
 
 ---
----
 
 # GitHub Analytics
 <p align="center">
 
-<img width="49%"
+<img width="50%"
 src="https://streak-stats.demolab.com?user=SetarehPishiyar&theme=tokyonight&hide_border=true&background=00000000"
 onerror="this.onerror=null;this.src='https://github-readme-streak-stats.herokuapp.com/?user=SetarehPishiyar&theme=tokyonight&hide_border=true';"
 />
-</p>
-
----
-
-# Contribution Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SetarehPishiyar&theme=tokyo-night&hide_border=true&bg_color=00000000"/>
 
 </p>
 
 ---
 
-# Weekly Coding Activity
+# Wakatime Coding Activity
 
 <!--START_SECTION:waka-->
 
@@ -114,11 +104,12 @@ JavaScript    4 mins          ░░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-<p align="center">
+---
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=setarehpishiyar&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
+<p align="left">
+  <img src="https://wakatime.com/share/@setarehpishiyar/9b14af0a-fb53-46ed-99b1-6bdd84c46b63.svg" />
 </p>
+
 ---
 
 # Let's Connect
