@@ -1,36 +1,32 @@
 <div align="center">
 
-# 👋 Hello, I'm Setareh
+# 👋 Hi, I'm Setareh
 
-### Frontend Developer
+### Frontend Developer • React • Next.js • TypeScript
 
-*Building modern, responsive & user-focused web experiences.*
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3500&pause=900&color=8B5CF6&center=true&vCenter=true&width=850&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Building+Modern+Web+Experiences;Always+Learning+Something+New"/>
+Building **fast**, **responsive**, and **user-centered** web applications with modern frontend technologies.
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=SetarehPishiyar&label=Profile%20Views&color=7c3aed&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=SetarehPishiyar&label=Profile+Views&style=for-the-badge&color=7c3aed" />
 
 </div>
 
 ---
 
-## 💫 About Me
+## About Me
 
-A **Frontend Developer** passionate about turning ideas into clean, practical, and enjoyable digital experiences.
+I'm a **Frontend Developer** who enjoys transforming ideas into elegant, accessible, and high-performance web applications.
 
-My journey into frontend development started with curiosity about how interfaces work and gradually evolved into building products that are intuitive, scalable, and enjoyable to use.
+My passion for frontend development began with curiosity about how great user interfaces are built. Today, I focus on creating scalable applications with clean architecture, reusable components, and smooth user experiences.
 
-As a **Frontend Developer Intern**, I worked with **React.js** and **Next.js** on production-like applications involving API-driven workflows, server-state management, reusable components, and scalable frontend architecture.
+During my experience as a **Frontend Developer Intern**, I worked with **React.js** and **Next.js** to build production-like features, integrate REST APIs, manage server and client state, and collaborate in a Git-based development workflow.
 
-I enjoy writing clean code, solving UI challenges, and continuously learning modern frontend technologies.
+I believe great frontend development is more than writing code—it's about crafting experiences that are intuitive, performant, and enjoyable for users.
 
 ---
 
-# 🛠 Studio Toolkit
+# Studio Toolkit
 
 ## ✦ Frontend Core & Build Tools
 
@@ -46,7 +42,7 @@ I enjoy writing clean code, solving UI challenges, and continuously learning mod
 <img src="https://skillicons.dev/icons?i=postman,redux" />
 </p>
 
-**TanStack Query** • **Zustand** • **React Hook Form** • **REST APIs**
+**TanStack Query** • **Zustand** • **React Hook Form** • **REST APIs** 
 
 ---
 
@@ -58,88 +54,85 @@ I enjoy writing clean code, solving UI challenges, and continuously learning mod
 
 ---
 
-# 💼 Experience
+# Experience
 
-## Frontend Developer Intern — 3 Months
+### Frontend Developer Intern — 3 Months
 
 Worked on practical frontend features using **React.js** and **Next.js**, including:
 
-* ✦ API-heavy workflows with frequent API calls
-* ✦ Server-state management using **TanStack Query**
-* ✦ Global state management using **Zustand**
-* ✦ Form handling using **React Hook Form**
-* ✦ Team collaboration using **Git** and **Jira**
-* ✦ Building reusable and maintainable UI components
-* ✦ Responsive layouts and modern frontend best practices
+✦ API-heavy workflows with frequent API calls
+✦ Server-state management using **TanStack Query**
+✦ Global state handling using **Zustand**
+✦ Form systems using **React Hook Form**
+✦ Team collaboration using **Git** and **Jira**
 
 ---
 
-# 🚀 Currently Exploring
+# Currently Exploring
 
-* ✦ Advanced React Patterns
-* ✦ Scalable Frontend Architecture
-* ✦ Next.js Ecosystem
-* ✦ Performance Optimization
-* ✦ Type-Safe Applications
-* ✦ UI/UX Design Systems
-* ✦ Framer Motion Animations
+✦ Advanced React Patterns
+✦ Scalable Frontend Architecture
+✦ Next.js Ecosystem
+✦ Performance Optimization
+✦ Type-Safe Applications
 
+---
 ---
 
 # 📊 GitHub Analytics
-
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SetarehPishiyar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SetarehPishiyar&theme=tokyonight&hide_border=true&background=00000000"/>
-
-</p>
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SetarehPishiyar&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
+<img width="49%"
+src="https://streak-stats.demolab.com?user=SetarehPishiyar&theme=tokyonight&hide_border=true&background=00000000"
+onerror="this.onerror=null;this.src='https://github-readme-streak-stats.herokuapp.com/?user=SetarehPishiyar&theme=tokyonight&hide_border=true';"
+/>
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Contribution Activity
 
 <p align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SetarehPishiyar&theme=tokyo-night&hide_border=true&bg_color=00000000"/>
+
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# ⏳ Weekly Coding Activity
+
+<!--START_SECTION:waka-->
+
+```text
+TypeScript   12 hrs 18 mins  ███████████████░░░░░░ 54.2%
+React         6 hrs 22 mins  ████████░░░░░░░░░░░░░ 28.1%
+CSS           2 hrs 01 mins  ██░░░░░░░░░░░░░░░░░░░  8.9%
+JSON          1 hr 12 mins  █░░░░░░░░░░░░░░░░░░░░  5.3%
+Other        51 mins        ░░░░░░░░░░░░░░░░░░░░░  3.5%
+```
+
+<!--END_SECTION:waka-->
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SetarehPishiyar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
 </p>
 
 ---
 
-# ⏳ Weekly Development Breakdown
+# 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=setarehpishiyar&theme=tokyonight&hide_border=true"/>
+
+<img src="https://raw.githubusercontent.com/SetarehPishiyar/SetarehPishiyar/output/github-contribution-grid-snake-dark.svg" />
+
 </p>
 
 ---
 
-# 🎯 What I Care About
-
-* Writing clean, maintainable code
-* Building responsive and accessible interfaces
-* Creating reusable component architectures
-* Performance-first development
-* Continuous learning and improvement
-
----
-
-# 🌐 Let's Connect
-
+# Let's Connect
 <p align="left">
 
 <a href="mailto:PishiyarSetareh@gmail.com">
@@ -154,18 +147,8 @@ Worked on practical frontend features using **React.js** and **Next.js**, includ
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
 </p>
 
----
-
-<div align="center">
-
-### 💬 *"Turning ideas into fast, accessible, and delightful web experiences."*
-
-⭐ **Thanks for visiting my profile!**
+💬 I'm always open to learning opportunities, frontend collaboration, and conversations about modern web development.
 
 </div>
