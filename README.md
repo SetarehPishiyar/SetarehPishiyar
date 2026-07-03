@@ -79,7 +79,7 @@ Worked on practical frontend features using **React.js** and **Next.js**, includ
 ---
 ---
 
-# 📊 GitHub Analytics
+# GitHub Analytics
 <p align="center">
 
 <img width="49%"
@@ -119,17 +119,6 @@ JavaScript    4 mins          ░░░░░░░░░░░░░░░░�
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=setarehpishiyar&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
 </p>
-
----
-
-# Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/SetarehPishiyar/SetarehPishiyar/output/github-contribution-grid-snake-dark.svg" />
-
-</p>
-
 ---
 
 # Let's Connect
