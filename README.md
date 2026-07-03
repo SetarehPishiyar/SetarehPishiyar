@@ -90,7 +90,7 @@ onerror="this.onerror=null;this.src='https://github-readme-streak-stats.herokuap
 
 ---
 
-# 📈 Contribution Activity
+# Contribution Activity
 
 <p align="center">
 
@@ -100,7 +100,7 @@ onerror="this.onerror=null;this.src='https://github-readme-streak-stats.herokuap
 
 ---
 
-# ⏳ Weekly Coding Activity
+# Weekly Coding Activity
 
 <!--START_SECTION:waka-->
 
@@ -116,13 +116,13 @@ JavaScript    4 mins          ░░░░░░░░░░░░░░░░�
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=setarehpishiyar&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+# Contribution Snake
 
 <p align="center">
 
@@ -149,6 +149,6 @@ JavaScript    4 mins          ░░░░░░░░░░░░░░░░�
 
 </p>
 
-💬 I'm always open to learning opportunities, frontend collaboration, and conversations about modern web development.
+I'm always open to learning opportunities, frontend collaboration, and conversations about modern web development.
 
 </div>
