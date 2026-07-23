@@ -95,7 +95,10 @@ onerror="this.onerror=null;this.src='https://github-readme-streak-stats.herokuap
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Dart    1 hr 39 mins    █████████████████████▒░░░   84.98 %
+Other   9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 %
+YAML    3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
+Text    3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
 ```
 
 <!--END_SECTION:waka-->
