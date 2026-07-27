@@ -95,11 +95,11 @@ onerror="this.onerror=null;this.src='https://github-readme-streak-stats.herokuap
 <!--START_SECTION:waka-->
 
 ```txt
-Dart         2 hrs 48 mins   ██████████████████░░░░░░░   71.88 %
-TypeScript   48 mins         █████░░░░░░░░░░░░░░░░░░░░   20.42 %
-Other        10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
-YAML         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
-Text         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+Dart         2 hrs 48 mins   ████████████▓░░░░░░░░░░░░   50.25 %
+TypeScript   2 hrs 29 mins   ███████████░░░░░░░░░░░░░░   44.36 %
+Other        10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
+YAML         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+Text         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
 ```
 
 <!--END_SECTION:waka-->
