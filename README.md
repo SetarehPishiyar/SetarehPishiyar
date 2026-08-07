@@ -95,10 +95,9 @@ onerror="this.onerror=null;this.src='https://github-readme-streak-stats.herokuap
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   6 hrs 15 mins   ████████████████▒░░░░░░░░   65.60 %
-JavaScript   2 hrs 34 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.04 %
-CSS          41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+TypeScript   7 hrs 23 mins   ███████████████████████░░   92.26 %
+CSS          32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
+JavaScript   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
 ```
 
 <!--END_SECTION:waka-->
