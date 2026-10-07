@@ -95,8 +95,7 @@ onerror="this.onerror=null;this.src='https://github-readme-streak-stats.herokuap
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   2 hrs 5 mins    █████████████████████████   99.84 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+TypeScript   1 hr 13 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
